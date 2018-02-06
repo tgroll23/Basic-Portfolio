@@ -31,7 +31,8 @@ Header {
 }
 .list1{
     list-style-type: none;
-    
+    display: inline;
+
 }
 #about{
     font-size: 24px;
